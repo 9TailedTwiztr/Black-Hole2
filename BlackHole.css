@@ -730,13 +730,13 @@ a.selected-1-Z6gm .layout-1qmrhw, a.channel-1Shao0:hover,
   margin-top: -47px;
 }
 
-/*#app-mount .content-1jQy2l,
+#app-mount .content-1jQy2l,
 #app-mount .chat-2ZfjoI form .inner-zqa7da,
 #app-mount .chat-2ZfjoI form,
 #app-mount .itemBackground-2vEldQ,
 #app-mount .wrapper-29NfPK {
   background-color: transparent;
-}*/
+}
 
 #app-mount .contentCozy-3XX413 .inner-zqa7da {
   background-color: var(--veil);
@@ -1049,7 +1049,7 @@ a.selected-1-Z6gm .layout-1qmrhw, a.channel-1Shao0:hover,
   background: linear-gradient(transparent, var(--blurple-sheer) 80%), var(--quatro) var(--stars) top left fixed !important;
 }
 
-  /* 4. Light Theme Alert */
+ /* 4. Light Theme Alert 
 [class*="platform-"].theme-light::after {
   content: 'Light does not scatter in space. Please turn dark theme back on.';
   line-height: 30px;
@@ -1074,7 +1074,7 @@ a.selected-1-Z6gm .layout-1qmrhw, a.channel-1Shao0:hover,
   border-radius: 5px;
   border: 2px solid var(--dnd);
   font-family: "Whitney";
-}
+}*/
 
 @keyframes lightTheme {
   from {
