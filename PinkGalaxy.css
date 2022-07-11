@@ -36,7 +36,7 @@
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
   --greyple-sheer: rgba(151, 168, 180, 0.267);
-  --black-hole: url(https://imgur.com/EV66Qjr.jpg);
+  --pink-galaxy: url(https://imgur.com/EV66Qjr.jpg);
   --stars: url(https://imgur.com/EV66Qjr.jpg);
   --roundness: 50px;
   --uno: rgb(25, 25, 27);
@@ -146,7 +146,7 @@
 #app-mount,
 .container-2RRFHK,
 .perksModalContentWrapper-2HU6uL {
-  background: linear-gradient(var(--sheer), var(--sheer)),var(--black-hole) center/30% fixed;
+  background: linear-gradient(var(--sheer), var(--sheer)),var(--pink-galaxy) center/30% fixed;
 }
 
 #app-mount .app-2CXKsg, 
@@ -165,7 +165,7 @@
 }
 
 .titleBar-1it3bQ:not(.typeMacOS-3V4xXE)::after {
-  content: "𐌁𐌋𐌀𐌂𐌊 𐋏𐍈𐌋𐌄";
+  content: "PINK GALAXY";
   position: absolute;
   top: 5px;
   left: 10px;
@@ -195,7 +195,7 @@
 
 .container-3O_wAf,
 .icon-1SdhiF {
-  background: var(--black-hole) center/30% fixed;
+  background: var(--pink-galaxy) center/30% fixed;
 }
 
 .attachButton-1UjEWA {
