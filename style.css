@@ -2233,6 +2233,7 @@ svg[name="Activity"] {
 .searchResult-O9NDji.expanded-ovgtuV,
 .searchHeader-1r_ZSh {
   background: var(--quatro) var(--stars) top left fixed;
+  color: black !important;
 }
 
 #app-mount .option-2KkUJO:after {
